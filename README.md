@@ -74,12 +74,12 @@ python main.py
 
 ### Main Interface
 
-![Main Interface](![output1](https://github.com/user-attachments/assets/9ee46ff5-ffa2-44ee-ae83-07baf3fea465)
+![Main Interface](https://github.com/user-attachments/assets/9ee46ff5-ffa2-44ee-ae83-07baf3fea465)
 )
 
 ### Matching in Progress
 
-![Matching in Progress](![output2](https://github.com/user-attachments/assets/33cceda6-0f13-4acc-a06d-f6cc94299559)
+![Matching in Progress](https://github.com/user-attachments/assets/33cceda6-0f13-4acc-a06d-f6cc94299559)
 )
 
 ### Best Match Result
